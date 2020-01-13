@@ -1,6 +1,6 @@
 ---
 name: Simon Swenson
 role: PhD Student
-photo: headshots/simon.jpg
-website: https://www.cs.arizona.edu/students/simon-swenson
+photo: headshots/simon.png
+website: https://www.cs.arizona.edu/person/simon-swenson
 ---
